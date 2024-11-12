@@ -1,0 +1,21 @@
+﻿# Java / Maven / Gradle
+/target/
+/build/
+/.gradle/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDEs
+/.idea/
+*.iml
+/.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local files
+*.log
+.env
