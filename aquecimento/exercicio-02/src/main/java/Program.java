@@ -18,7 +18,7 @@ public class Program {
 
         if (IMC <18.5) {
             System.out.println("Abaixo do peso.");
-        } else if (IMC => 18.5 && IMC <= 24.9) {
+        } else if (IMC >= 18.5 && IMC <= 24.9) {
             System.out.println("Peso normal.");
         } else if (25 <= IMC && IMC <= 29.9) {
             System.out.println("Sobrepeso.");
