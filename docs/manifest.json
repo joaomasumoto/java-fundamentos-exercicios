@@ -1,0 +1,210 @@
+﻿[
+    {
+        "title":  "Media de 3 notas",
+        "theme":  "Entrada, calculo e saida",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\Media de 3 notas",
+        "path":  "fundamentos/media-3-notas",
+        "javaFiles":  1,
+        "lastEdit":  "2025-01-30 22:38:40"
+    },
+    {
+        "title":  "Media de 4 alunos",
+        "theme":  "Classes, objetos e calculo de media",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\11. Media 4 alunos",
+        "path":  "poo/media-4-alunos",
+        "javaFiles":  3,
+        "lastEdit":  "2025-01-30 23:14:38"
+    },
+    {
+        "title":  "Condicoes de pagamento",
+        "theme":  "Enumeracoes, regras condicionais e POO",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\12. Condicoes de pagamento",
+        "path":  "poo/condicoes-de-pagamento",
+        "javaFiles":  3,
+        "lastEdit":  "2025-01-30 23:34:04"
+    },
+    {
+        "title":  "Maioridade com pessoa",
+        "theme":  "Classe simples e condicional",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\13. maior de idade",
+        "path":  "poo/maioridade-pessoa",
+        "javaFiles":  2,
+        "lastEdit":  "2025-01-30 23:37:56"
+    },
+    {
+        "title":  "Troca de variaveis",
+        "theme":  "Variaveis e atribuicao",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\14. Troca de variaveis",
+        "path":  "fundamentos/troca-de-variaveis",
+        "javaFiles":  1,
+        "lastEdit":  "2024-11-11 21:41:49"
+    },
+    {
+        "title":  "Anos vividos",
+        "theme":  "Entrada de dados e calculo",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\15. Anos vividos",
+        "path":  "fundamentos/anos-vividos",
+        "javaFiles":  1,
+        "lastEdit":  "2025-01-30 23:39:28"
+    },
+    {
+        "title":  "Ordenando inteiros",
+        "theme":  "Condicionais e ordenacao simples",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\16. Ordenando inteiros",
+        "path":  "fundamentos/ordenando-inteiros",
+        "javaFiles":  1,
+        "lastEdit":  "2025-01-30 23:54:52"
+    },
+    {
+        "title":  "Matriz bidimensional",
+        "theme":  "Arrays/matrizes",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\17. Matriz Bidimensional",
+        "path":  "fundamentos/matriz-bidimensional",
+        "javaFiles":  1,
+        "lastEdit":  "2025-01-30 23:56:51"
+    },
+    {
+        "title":  "Par, impar e primo",
+        "theme":  "Condicionais e numeros primos",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\18. Par ou impar e primo",
+        "path":  "fundamentos/par-impar-primo",
+        "javaFiles":  1,
+        "lastEdit":  "2025-01-30 23:58:32"
+    },
+    {
+        "title":  "Tabuada",
+        "theme":  "Lacos de repeticao",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\19. Tabuada",
+        "path":  "fundamentos/tabuada",
+        "javaFiles":  1,
+        "lastEdit":  "2025-01-31 00:01:00"
+    },
+    {
+        "title":  "Frase e caracteres",
+        "theme":  "Strings e caracteres",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\20. Frase e caracteres",
+        "path":  "fundamentos/frase-e-caracteres",
+        "javaFiles":  1,
+        "lastEdit":  "2025-01-31 00:03:10"
+    },
+    {
+        "title":  "10 green bottles",
+        "theme":  "Lacos e impressao formatada",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\10 green bottles",
+        "path":  "fundamentos/dez-garrafas-verdes",
+        "javaFiles":  1,
+        "lastEdit":  "2025-04-26 18:27:47"
+    },
+    {
+        "title":  "Manipulacao de tempo e datas",
+        "theme":  "Datas, horarios e API de tempo",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\Cronomancia - manipulacao de tempo e datas",
+        "path":  "datas/manipulacao-tempo-datas",
+        "javaFiles":  7,
+        "lastEdit":  "2025-01-30 23:50:33"
+    },
+    {
+        "title":  "Central de aquecimento",
+        "theme":  "Menu com varios exercicios basicos",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\ExercicioCentralAquecimento",
+        "path":  "aquecimento/central-aquecimento",
+        "javaFiles":  7,
+        "lastEdit":  "2025-05-18 01:14:52"
+    },
+    {
+        "title":  "Exercicio de aquecimento 01",
+        "theme":  "Fundamentos Java",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\ExercicioDeAquecimento01",
+        "path":  "aquecimento/exercicio-01",
+        "javaFiles":  1,
+        "lastEdit":  "2025-05-10 18:36:42"
+    },
+    {
+        "title":  "Exercicio de aquecimento 02",
+        "theme":  "Fundamentos Java",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\ExercicioDeAquecimento02",
+        "path":  "aquecimento/exercicio-02",
+        "javaFiles":  1,
+        "lastEdit":  "2025-05-10 20:07:33"
+    },
+    {
+        "title":  "Exercicio de aquecimento 03",
+        "theme":  "Fundamentos Java",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\ExercicioDeAquecimento03",
+        "path":  "aquecimento/exercicio-03",
+        "javaFiles":  1,
+        "lastEdit":  "2025-05-08 21:48:40"
+    },
+    {
+        "title":  "Exercicio de aquecimento 04",
+        "theme":  "Fundamentos Java",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\ExercicioDeAquecimento04",
+        "path":  "aquecimento/exercicio-04",
+        "javaFiles":  1,
+        "lastEdit":  "2025-05-08 22:08:11"
+    },
+    {
+        "title":  "Exercicio de aquecimento 05",
+        "theme":  "Fundamentos Java",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\ExercicioDeAquecimento05",
+        "path":  "aquecimento/exercicio-05",
+        "javaFiles":  1,
+        "lastEdit":  "2025-05-10 11:55:26"
+    },
+    {
+        "title":  "Exercicio de aquecimento 06",
+        "theme":  "Fundamentos Java",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\ExercicioDeAquecimento06",
+        "path":  "aquecimento/exercicio-06",
+        "javaFiles":  1,
+        "lastEdit":  "2025-05-10 22:52:00"
+    },
+    {
+        "title":  "Exercicio de aquecimento 07",
+        "theme":  "Fundamentos Java",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\ExercicioDeAquecimento07",
+        "path":  "aquecimento/exercicio-07",
+        "javaFiles":  1,
+        "lastEdit":  "2025-05-10 17:03:09"
+    },
+    {
+        "title":  "Exercicio de aquecimento 08",
+        "theme":  "Fundamentos Java",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\ExercicioDeAquecimento08",
+        "path":  "aquecimento/exercicio-08",
+        "javaFiles":  1,
+        "lastEdit":  "2025-05-20 22:52:21"
+    },
+    {
+        "title":  "Exercicio de aquecimento 09",
+        "theme":  "Fundamentos Java",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\ExercicioDeAquecimento09",
+        "path":  "aquecimento/exercicio-09",
+        "javaFiles":  1,
+        "lastEdit":  "2025-05-21 20:44:19"
+    },
+    {
+        "title":  "Exercicio de aquecimento 10",
+        "theme":  "Fundamentos Java",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\ExercicioDeAquecimento10",
+        "path":  "aquecimento/exercicio-10",
+        "javaFiles":  1,
+        "lastEdit":  "2025-05-24 20:37:04"
+    },
+    {
+        "title":  "Seminarios - aula 70 DevDojo",
+        "theme":  "Relacionamento entre classes",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\exercicioAula70DevDojo",
+        "path":  "devdojo/seminarios-aula-70",
+        "javaFiles":  5,
+        "lastEdit":  "2026-01-14 22:56:29"
+    },
+    {
+        "title":  "Estudo Student v1/v2",
+        "theme":  "Evolucao de classes e organizacao em pacotes",
+        "source":  "C:\\Users\\jgabr\\IdeaProjects\\java-estudos-aquecimento",
+        "path":  "poo/estudo-student-v1-v2",
+        "javaFiles":  3,
+        "lastEdit":  "2026-01-22 22:50:39"
+    }
+]
