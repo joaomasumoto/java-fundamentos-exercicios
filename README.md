@@ -9,6 +9,8 @@ Os exercicios foram mantidos como solucoes independentes. Alguns usam pacote def
 - `fundamentos/` - entrada e saida, variaveis, condicionais, lacos, strings, arrays e matrizes.
 - `poo/` - classes, objetos, enumeracoes, organizacao em pacotes e pequenas regras de negocio.
 - `datas/` - exercicios com datas, horarios e manipulacao de tempo.
+- `excecoes/` - tratamento de erros, excecoes personalizadas e validacoes.
+- `algoritmos/` - solucoes curtas de problemas de logica e plataformas de treino.
 - `aquecimento/` - lista de praticas curtas para reforcar sintaxe e logica.
 - `devdojo/` - exercicio de relacionamento entre classes feito durante estudos do curso DevDojo.
 
@@ -29,7 +31,14 @@ Os exercicios foram mantidos como solucoes independentes. Alguns usam pacote def
 | `poo/condicoes-de-pagamento` | Enumeracoes, regras condicionais e POO |
 | `poo/maioridade-pessoa` | Classe simples e condicional |
 | `poo/estudo-student-v1-v2` | Evolucao de classes e organizacao em pacotes |
+| `poo/composicao/worker-contracts` | Composicao de objetos e contratos por hora |
+| `poo/heranca-polimorfismo/funcionarios-terceirizados` | Heranca e sobrescrita de metodo |
+| `poo/heranca-polimorfismo/produtos-importados-usados` | Heranca, polimorfismo e formatacao de etiquetas |
+| `poo/heranca-polimorfismo/calculo-impostos-contribuintes` | Classes abstratas e calculo polimorfico de impostos |
 | `datas/manipulacao-tempo-datas` | Datas, horarios e API de tempo |
+| `excecoes/reservas-hotel` | Excecoes personalizadas em reserva de hotel |
+| `excecoes/conta-bancaria-saque` | Validacao de saque e excecoes de dominio |
+| `algoritmos/leetcode/easy` | Exercicios simples de algoritmos em Java |
 | `aquecimento/central-aquecimento` | Menu com varios exercicios basicos |
 | `aquecimento/exercicio-01` a `aquecimento/exercicio-10` | Fundamentos Java |
 | `devdojo/seminarios-aula-70` | Relacionamento entre classes |
