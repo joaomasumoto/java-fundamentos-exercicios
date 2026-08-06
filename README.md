@@ -38,7 +38,7 @@ Os exercicios foram mantidos como solucoes independentes. Alguns usam pacote def
 | `datas/manipulacao-tempo-datas` | Datas, horarios e API de tempo |
 | `excecoes/reservas-hotel` | Excecoes personalizadas em reserva de hotel |
 | `excecoes/conta-bancaria-saque` | Validacao de saque e excecoes de dominio |
-| `algoritmos/leetcode/easy` | Exercicios simples de algoritmos em Java |
+| `algoritmos/leetcode` | Trilha de exercicios Easy e Medium do LeetCode em Java |
 | `aquecimento/central-aquecimento` | Menu com varios exercicios basicos |
 | `aquecimento/exercicio-01` a `aquecimento/exercicio-10` | Fundamentos Java |
 | `devdojo/seminarios-aula-70` | Relacionamento entre classes |
@@ -54,6 +54,8 @@ java Program
 ```
 
 Para exercicios com pacotes, compile a partir da raiz do `src` correspondente, respeitando a estrutura de diretorios.
+
+Os exercicios do LeetCode possuem testes simples com metodo `main`. A ordem sugerida, os temas e os comandos de teste estao em [`algoritmos/leetcode/README.md`](algoritmos/leetcode/README.md).
 
 ## Observacoes
 
